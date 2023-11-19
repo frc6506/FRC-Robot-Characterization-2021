@@ -5,5 +5,5 @@ This project was delvoped by FRC Team #6505, Steel Boot Robotics. Visit https://
 
 Notice:  This project is rather old, we never got it working, and it was never trully finished.  Note that, any further development will happen in a new repository.
 
-Team website: [https://steelboot.weebly.com](https://steelboot.weebly.com) Email Address: [FRCteam6506@gmail.com](FRCteam6506@gmail.com)
+Team website: [https://steelboot.weebly.com](https://steelboot.weebly.com) Email Address: [FRCteam6506@gmail.com](mailto:FRCteam6506@gmail.com)
 
